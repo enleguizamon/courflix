@@ -1,0 +1,16 @@
+.cardWrapper {
+    display: flex;
+    height: 140px;
+    width: 250px;
+    margin-right: 15px;
+    :hover {
+        opacity: 0.6;
+        transform: scale(1.1);
+        margin-left: 10px;
+        margin-right: 10px;
+        margin: 0 auto;
+    }
+    .img {
+        width: 100%;
+    }
+}

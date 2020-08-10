@@ -1,0 +1,155 @@
+[
+    {
+        "title": "Isle of dogs",
+        "img":"https://wilhelmscreeners.files.wordpress.com/2019/01/11211891_web1_m-idles-of-dogs-edh-180329.jpg.jpg",
+        "description": "Un Japón distópico, dentro de 20 años. La saturación canina ha alcanzado proporciones de epidemia en Megasaki."
+    },
+    {
+        "type": "series",
+        "title": "The Sopranos",
+        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
+        "imgPortada": "https://cdn.newsapi.com.au/image/v1/875e4001bf9c265695aa370e96801d30",
+        "description": "Tony Soprano, mafioso de Nueva Jersey enfrenta las dificultades tanto en su hogar como en la organización criminal que dirige."
+    },
+    {
+        "type": "series",
+        "title": "The wire",
+        "img":"https://image.tmdb.org/t/p/w250_and_h141_face/oggnxmvofLtGQvXsO9bAFyCj3p6.jpg",
+        "imgPortada": "https://images-na.ssl-images-amazon.com/images/I/712kFUpnVIL._AC_SL1224_.jpg",
+        "description": "En los barrios bajos de Baltimore, se investiga un asesinato relacionado con el mundo de las drogas. La corrupción policial, las frágiles lealtades dentro de los cárteles y la miseria vinculada al narcotráfico son algunos de los problemas denunciados en esta serie."
+    },
+    {
+        "type": "series",
+        "title": "Fleabag",
+        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/dEJsGjk81tZeL3JVOuDfnPulHed.jpg",
+        "imgPortada": "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/815/cached.offlinehbpl.hbpl.co.uk/news/WAC/FleabagTB-20190306115443380.jpg",
+        "description": "Fleabag es una joven londinense de 30 años, que pasa por una crisis vital tras perder a su mejor amiga. Sin reparos, la protagonista desafía al espectador que quiera plantearse realizar un juicio moral sobre sus acciones."
+    },
+    {
+        "type": "series",
+        "title": "Succession",
+        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/d2tAqGQzuP3gYwrVavrnK06xnO4.jpg",
+        "imgPortada": "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/815/cached.offlinehbpl.hbpl.co.uk/news/WAC/FleabagTB-20190306115443380.jpg",
+        "description": "Disfuncional familia de Logan Roy y sus cuatro hijos, que controlan una de las empresas de medios de comunicación y entretenimiento más importantes del mundo. Los problemas llegan cuando se plantea quién será el sucesor del patriarca."
+    },
+    {
+        "type": "series",
+        "title": "Atlanta",
+        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/bHwrMWhF45bV3sw8dmkHGXgD8FL.jpg",
+        "imgPortada": "",
+        "description": "En la ciudad de Atlanta, dos primos afroamericanos se meten en el mundo del rap. Su evolución profesional será complicada por su diferente percepción de lo que es el arte, el producto, el éxito y otras cosas."
+    },
+    {
+        "type": "series",
+        "title": "Six Feet Under",
+        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/zjjlxRnTXFpTEHTCtvYDVhBAq6g.jpg",
+        "imgPortada": "",
+        "description": "Narra la vida de los miembros de una peculiar familia de Los Ángeles que posee una empresa funeraria."
+    },
+    {
+        "type": "series",
+        "title": "Euforia",
+        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/9KnIzPCv9XpWA0MqmwiKBZvV1Sj.jpg",
+        "imgPortada": "",
+        "description": "Una reflexión sobre la adolescencia a través de un grupo de estudiantes de instituto que tienen que hacer frente a temas recurrentes de su edad como las drogas, el sexo, la violencia, los problemas de identidad, los traumas, las redes sociales, el amor y la amistad."
+    },
+    {
+        "type": "pelis",
+        "title": "Being John Malkovich",
+        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/1Nyjb7aeRKynWgmOl8he5ZcvWLm.jpg",
+        "imgPortada": "",
+        "description": ""
+    },
+    {
+        "type": "pelis",
+        "title": "Inglorious Basterds",
+        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/bMJxwgLyD47CDQ6BFCT2AMMlID7.jpg",
+        "imgPortada": "",
+        "description": "Un titeretero que descubre un portal que conduce, literalmente, dentro de la cabeza de la estrella de cine John Malkovich"
+    },
+    {
+        "type": "pelis",
+        "title": "Mid90's",
+        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/aycVJuqlxHSNfxHfTftuklLpjUC.jpg",
+        "imgPortada": "",
+        "description": "Stevie, un chico de 13 años que vive en el Los Ángeles de los años 90, pasa el verano lidiando con los problemas de su vida doméstica y divirtiéndose con su nuevo grupo de amigos, que ha conocido en una tienda de skate."
+    },
+    {
+        "type": "pelis",
+        "title": "The lighthouse",
+        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/tNE9HGcFOH8EpCmzO7XCYwqguI0.jpg",
+        "imgPortada": "",
+        "description": "Una remota y misteriosa isla de Nueva Inglaterra. El veterano farero y su joven ayudante deberán convivir durante cuatro semanas. Las cosas se complicarán cuando surjan conflictos por jerarquías de poder entre ambos."
+    },
+    {
+        "type": "pelis",
+        "title": "Midsommar",
+        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/zLNQcj4MhyQSfUSyxgJhmQLIfZ8.jpg",
+        "imgPortada": "",
+        "description": "Lo que comienza como unas vacaciones de ensueño en un lugar en el que el sol no se pone nunca, poco a poco se convierte en una oscura pesadilla cuando los misteriosos aldeanos les invitan a participar en sus perturbadoras actividades festivas."
+    },
+    {
+        "type": "pelis",
+        "title": "Princess Mononoke",
+        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/mpNd0rTVrp6vHJ9Je7wSa3zC8JS.jpg",
+        "imgPortada": "",
+        "description": "Con el fin de curar la herida que le ha causado un jabalí enloquecido, el joven Ashitaka sale en busca del dios Ciervo, pues sólo él puede liberarlo del sortilegio. Descubre cómo los animales del bosque luchan contra hombres que están dispuestos a destruir la Naturaleza."
+    },
+    {
+        "type": "pelis",
+        "title": "Call me by ypur name",
+        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/yK20evDYkI4ET0EY2fIsKsNF6Ip.jpg",
+        "imgPortada": "",
+        "description": "Una historia de amor de verano entre Elio Perlman, un joven adolescente de 17 años, y Oliver, un estudiante de 24 invitado en casa de sus padres a la casa familiar de la Riviera italiana."
+    },
+    {
+        "type": "seriesRecomendadas",
+        "title": "Mad Men",
+        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/ljOiRmGg96ltbNaCaxUkjdXyPjK.jpg",
+        "imgPortada": "",
+        "description": "Aclamada serie dramática que narra los comienzos de una de las más prestigiosas agencias de publicidad de los años sesenta."
+    },
+    {
+        "type": "seriesRecomendadas",
+        "title": "Fargo",
+        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/2FsYA44kJ2cLB698tBc7bfn3GnB.jpg",
+        "imgPortada": "",
+        "description": "En un pequeño pueblo de Minnesota, un inesperado giro de los acontecimientos perturba la vida de varias personas."
+    },
+    {
+        "type": "seriesRecomendadas",
+        "title": "Broen Bron",
+        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/d1y1Bp0wWgA2LmPX5jVNz9Sx0Uf.jpg",
+        "imgPortada": "",
+        "description": "Saga y Martin son dos policías de Suecia y Dinamarca, respectivamente, que cruzarán sus caminos por un crimen cometido en el puente que une ambos países, justo en la frontera."
+    },
+    {
+        "type": "seriesRecomendadas",
+        "title": "Better call Saul",
+        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/gxW8jcVf0nN5BBjiIRqJssh7m0p.jpg",
+        "imgPortada": "",
+        "description": "Una serie nominada al Emmy que deriva de Breaking Bad y sigue la metamorfosis del abogado Jimmy McGill en Saul Goodman, el asesor inescrupuloso de Walter White."
+    },
+    {
+        "type": "seriesRecomendadas",
+        "title": "Los simuladores",
+        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/CVldI1pzrg0TNQgXFOc9PMo9nB.jpg",
+        "imgPortada": "",
+        "description": "Cuatro socios que, mediante operativos de simulacro sofisticados, «resuelven los problemas de gente común»."
+    },
+    {
+        "type": "seriesRecomendadas",
+        "title": "Seinfeld",
+        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/xxyZPKsc5h6PH5XMdbmuMjt4APf.jpg",
+        "imgPortada": "",
+        "description": "La popular comedia de los 90 creada por Larry David y el protagonista de la misma Jerry Seinfeld que le da título, trata las experiencias de cuatro amigos en la ciudad de Manhattan"
+    },
+    {
+        "type": "seriesRecomendadas",
+        "title": "The office",
+        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/klDoi212oi2ewNSvbzPOvOP0KCl.jpg",
+        "imgPortada": "",
+        "description": "El día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin, de forma fresca y divertida, y con apariencia de pseudo-documental."
+    }
+
+]
