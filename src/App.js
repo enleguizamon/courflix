@@ -4,14 +4,15 @@ import '../src/assets/reset.css'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Carousel from './components/Carousel';
+import data from './data/courflixData.json'
 
 class App extends React.Component {
   render() {
     return (
       <div>
         <Navbar/>
-        <Hero />
-        <Carousel />
+        <Hero data={data} />
+        <Carousel data={data}/>
       </div>
     );
   }

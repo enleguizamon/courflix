@@ -1,11 +1,11 @@
 import React from 'react';
 import './style.scss'
-import data from '../../data/courflixData.json'
 
 class Hero extends React.Component {
   render() {
+    const {data} = this.props;
     return (
-      <div className="hero-container" style={{ backgroundImage: `url(${data[0].img})` }}>
+      <div className="hero-container" style={{ backgroundImage: `linear-gradient(30deg, rgba(0, 0, 0, 0.884), rgba(170, 170, 170, 0.11)), url(${data[0].img})` }}>
         <h3 className="subtitle">Original de COURFLIX</h3>
         <h1 className="serie-title">{data[0].title}</h1>
         <button className="button b1">Reproducir</button>

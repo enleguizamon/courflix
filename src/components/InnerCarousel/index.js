@@ -1,7 +1,6 @@
 import React from 'react';
 import './style.scss';
 import Card from '../Card'
-import data from '../../data/courflixData.json'
 import Slider from 'react-slick';
 
 class InnerCarousel extends React.Component {
@@ -20,11 +19,13 @@ class InnerCarousel extends React.Component {
   }
 
   render() {
+    const { filter } = this.props;
+    const { data } = this.props;
     return (
       <div className="innerWrapper">
         <Slider {...this.settings} className="slick">
           {data.map((elem, key) => {
-            if (elem.type == this.props.filter) {
+            if (elem.type == filter) {
               return (
                 <Card key={key} img={elem.img} />
               )
