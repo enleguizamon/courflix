@@ -11,7 +11,7 @@ class App extends React.Component {
     return (
       <div>
         <Navbar/>
-        <Hero data={data} />
+        <Hero data={data[0]} />
         <Carousel data={data}/>
       </div>
     );

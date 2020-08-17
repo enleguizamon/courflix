@@ -1,59 +1,258 @@
 [
     {
+        "id": "0",
+        "type": "pelis",
         "title": "ISLE OF DOGS",
         "img":"https://media.vanityfair.com/photos/5a871cc947ef634077a69e48/16:9/w_1280,c_limit/Isle-of-Dogs-Review.jpg",
         "description": "Un Japón distópico, dentro de 20 años. La saturación canina ha alcanzado proporciones de epidemia en Megasaki."
     },
     {
+        "id": "1",
         "type": "series",
         "title": "THE SOPRANOS",
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
         "imgPortada": "https://cdn.newsapi.com.au/image/v1/875e4001bf9c265695aa370e96801d30",
-        "description": "Tony Soprano, mafioso de Nueva Jersey enfrenta las dificultades tanto en su hogar como en la organización criminal que dirige."
+        "description": "Tony Soprano, mafioso de Nueva Jersey enfrenta las dificultades tanto en su hogar como en la organización criminal que dirige.",
+        "caps": [
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/rp60DTAFpbaz9vaC1G9SVzQgwOM.jpg",
+                "serieTitle": "Piloto",
+                "serieDescription":"Anthony Soprano, un capo de la Familia mafiosa DiMeo, empieza a asistir a terapia con la Dra. Jennifer Melfi después de tener ataques de ansiedad."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/huaDp6GlmXQgqSVQSzVykMOVS02.jpg",
+                "serieTitle": "Largo",
+                "serieDescription":"Christopher y Brendan Filone empiezan a secuestrar camiones. Aunque averiguan que el dueño de los camiones paga a Junior por protección."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/pR7Ag4lzWOexnzfsCXvZP6HkyD0.jpg",
+                "serieTitle": "Negación, enfado y aceptación",
+                "serieDescription":"Los Soprano alquilan el restaurante de Artie para celebrar una cena."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/jnNSVBFDUsW0Wu5gvWcPW2eMW8N.jpg",
+                "serieTitle": "Meadowlands",
+                "serieDescription":"Tony y su amigo el Detective Vin Makazian siguen a la Doctora Melfi, una vez que a Tony ha soñado con ella."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/6WWp1vXyppt8Z08HSPJq16DESkP.jpg",
+                "serieTitle": "College",
+                "serieDescription":"Tony y Meadow viajan a Maine a visitar universidades, y discuten acerca de la naturaleza de los negocios de Tony"
+            }
+        ]
     },
     {
+        "id":"2",
         "type": "series",
         "title": "THE WIRE",
         "img":"https://image.tmdb.org/t/p/w250_and_h141_face/oggnxmvofLtGQvXsO9bAFyCj3p6.jpg",
         "imgPortada": "https://images-na.ssl-images-amazon.com/images/I/712kFUpnVIL._AC_SL1224_.jpg",
-        "description": "En los barrios bajos de Baltimore, se investiga un asesinato relacionado con el mundo de las drogas. La corrupción policial, las frágiles lealtades dentro de los cárteles y la miseria vinculada al narcotráfico son algunos de los problemas denunciados en esta serie."
+        "description": "En los barrios bajos de Baltimore, se investiga un asesinato relacionado con el mundo de las drogas. La corrupción policial, las frágiles lealtades dentro de los cárteles y la miseria vinculada al narcotráfico son algunos de los problemas denunciados en esta serie.",
+        "caps": [
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/6Nvita938dYtiMXOIEYsjKzTJ1.jpg",
+                "serieTitle": "El objetivo",
+                "serieDescription":"...'Cuando no es tu turno' - McNulty."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/nfQGFIi94bsk9wwbN1BLlLuhEnu.jpg",
+                "serieTitle": "El detalle",
+                "serieDescription":"'No puedes perder si no juegas' - Marla Daniels."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/yiEGeOl1qteH5tzxsDLM0lC4vo5.jpg",
+                "serieTitle": "Las compras",
+                "serieDescription":"'El rey sigue siendo el rey' - D'Angelo."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/zJVDfDCsaVJxJUDUStGVaqm2zbm.jpg",
+                "serieTitle": "Casos antiguos",
+                "serieDescription":"'Es una delgada línea entre el cielo y aquí.' - Bubbles."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/hGWCLPaie8xmI2BHBenox7wdTac.jpg",
+                "serieTitle": "El buscapersonas",
+                "serieDescription":"..un poco lento, un poco tarde. - Avon Barksdale."
+            }
+        ]
     },
     {
+        "id": "3",
         "type": "series",
         "title": "FLEABAG",
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/dEJsGjk81tZeL3JVOuDfnPulHed.jpg",
         "imgPortada": "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/815/cached.offlinehbpl.hbpl.co.uk/news/WAC/FleabagTB-20190306115443380.jpg",
-        "description": "Fleabag es una joven londinense de 30 años, que pasa por una crisis vital tras perder a su mejor amiga. Sin reparos, la protagonista desafía al espectador que quiera plantearse realizar un juicio moral sobre sus acciones."
+        "description": "Fleabag es una joven londinense de 30 años, que pasa por una crisis vital tras perder a su mejor amiga. Sin reparos, la protagonista desafía al espectador que quiera plantearse realizar un juicio moral sobre sus acciones.",
+        "caps": [
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/vlFDprUHK2yNBDsbIXsFNP8ludv.jpg",
+                "serieTitle": "Episodio 1",
+                "serieDescription":"Fleabag irrumpe en Londres, buscando razones para seguir con su vida."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/yQoj0DSvLFsL1rHojlg8NGoFdrS.jpg",
+                "serieTitle": "Episodio 2",
+                "serieDescription":"Fleabag está en una pobre situación mental, atormentada en los recuerdos de su fallecida mejor amiga."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/7uo4YNnYcAoCrGkND5YyeFqUGTY.jpg",
+                "serieTitle": "Episodio 3",
+                "serieDescription":"Fleabag retoma contacto con un viejo amigo para probar suerte en sus relaciones románticas."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/5zqMpp6ITsFaJQgBcDboalu6pKN.jpg",
+                "serieTitle": "Episodio 4",
+                "serieDescription":"El padre de Fleabag y su hermana las envía a un retiro femenino de silencio."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/AmijSCBSw13HcYVrER0gl006cs4.jpg",
+                "serieTitle": "Episodio 5",
+                "serieDescription":"Fleabag y Claire vuelven a su casa por el aniversario de la muerte de su madre."
+            }
+        ]
     },
     {
+        "id": "4",
         "type": "series",
         "title": "SUCCESSION",
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/d2tAqGQzuP3gYwrVavrnK06xnO4.jpg",
         "imgPortada": "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/815/cached.offlinehbpl.hbpl.co.uk/news/WAC/FleabagTB-20190306115443380.jpg",
-        "description": "Disfuncional familia de Logan Roy y sus cuatro hijos, que controlan una de las empresas de medios de comunicación y entretenimiento más importantes del mundo. Los problemas llegan cuando se plantea quién será el sucesor del patriarca."
+        "description": "Disfuncional familia de Logan Roy y sus cuatro hijos, que controlan una de las empresas de medios de comunicación y entretenimiento más importantes del mundo. Los problemas llegan cuando se plantea quién será el sucesor del patriarca.",
+        "caps": [
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/9r1kC6EvzMdg3BkEqBhfM3QgJVG.jpg",
+                "serieTitle": "Celebración",
+                "serieDescription":"El magnate de los medios de comunicación Logan Roy sorprende a su familia con una increíble noticia."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/ii2EJNOxpSraR8icuYHGbO4avAU.jpg",
+                "serieTitle": "Sh*t Show at the F**k Factory",
+                "serieDescription":"La incapacidad de Logan provoca una acalorada discusión sobre quién será su sucesor."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/5znXaotuoGAY2rtPw8WWjbcsyyI.jpg",
+                "serieTitle": "Salvavidas",
+                "serieDescription":"Kendall debe afrontar una crisis en Waystar."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/145Os0X7gilqJcNEdAyzKlvaD0S.jpg",
+                "serieTitle": "La trampa para los ricos y los desfavorecidos",
+                "serieDescription":"La familia acude a una fiesta anual de la compañía."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/s51pU8QMDODpHQfQuvpJnSyr0NL.jpg",
+                "serieTitle": "He ido al mercado",
+                "serieDescription":"Kendall empieza a planear una moción de censura contra Logan."
+            }
+        ]
     },
     {
+        "id": "5",
         "type": "series",
         "title": "ATLANTA",
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/bHwrMWhF45bV3sw8dmkHGXgD8FL.jpg",
         "imgPortada": "",
-        "description": "En la ciudad de Atlanta, dos primos afroamericanos se meten en el mundo del rap. Su evolución profesional será complicada por su diferente percepción de lo que es el arte, el producto, el éxito y otras cosas."
+        "description": "En la ciudad de Atlanta, dos primos afroamericanos se meten en el mundo del rap. Su evolución profesional será complicada por su diferente percepción de lo que es el arte, el producto, el éxito y otras cosas.",
+        "caps": [
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/bQPHD6yFwk75PpLGpgxe9V2WRLT.jpg",
+                "serieTitle": "El Big Bang",
+                "serieDescription":"Arruinado y con pocas opciones, Earn se ofrece como manager de su primo rapero, Paper Boi."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/6qu9IycK1bmftZ8f7NUvGwElT2Z.jpg",
+                "serieTitle": "Perros callejeros",
+                "serieDescription":"La brutalidad policial, la enfermedad mental y la transfobia surgen mientras Earn espera que su fianza sea pagada."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/xVarlB7yliNCqVm4tzY0TckTmzK.jpg",
+                "serieTitle": "Ir por todo",
+                "serieDescription":"Earn tiene una cita con Van a pesar de estar arruinado."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/8vWx0MnqU8om1LDbEEBpnGda1yU.jpg",
+                "serieTitle": "El efecto Streisand",
+                "serieDescription":"Darius ayuda a Earn a buscar una manera de ganar mucho dinero rápido."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/hbI7IClzuPkdpJvfVKnSt2SugB5.jpg",
+                "serieTitle": "Nadie puede con Bieber",
+                "serieDescription":"Paper Boi asiste a un evento de celebrities para jóvenes y es burlado por un artista de hip hop más famoso."
+            }
+        ]
     },
     {
+        "id": "6",
         "type": "series",
         "title": "SIX FEET UNDER",
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/zjjlxRnTXFpTEHTCtvYDVhBAq6g.jpg",
         "imgPortada": "",
-        "description": "Narra la vida de los miembros de una peculiar familia de Los Ángeles que posee una empresa funeraria."
+        "description": "Narra la vida de los miembros de una peculiar familia de Los Ángeles que posee una empresa funeraria.",
+        "caps": [
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/cSLWrRhHOksHBugGWfYMLlfBgTW.jpg",
+                "serieTitle": "El testamento",
+                "serieDescription":"El fundador de una cadena de franquicias muere."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/9qe6tSVJUFhwgqsGShlEf55iPVk.jpg",
+                "serieTitle": "El pie",
+                "serieDescription":"El dueño de una panadería muere."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/h9vkotvTCpXlknDal3cR9AzgAqy.jpg",
+                "serieTitle": "Familia",
+                "serieDescription":"Muere un pandillero mexicano."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/cJNhcl46ypJ5cvk05PLHQwSHcaL.jpg",
+                "serieTitle": "Un libro abierto",
+                "serieDescription":"Brenda sugiere que vayan a algunos funerales haciéndose pasar por familiares de los fallecidos."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/1DkH4Dh3ob6bB0xDn21EAUzlhaA.jpg",
+                "serieTitle": "La habitación",
+                "serieDescription":"Un viudo con muy mal genio visita la funeraria de los Fisher."
+            }
+        ]
     },
     {
+        "id": "7",
         "type": "series",
         "title": "EUFORIA",
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/9KnIzPCv9XpWA0MqmwiKBZvV1Sj.jpg",
         "imgPortada": "",
-        "description": "Una reflexión sobre la adolescencia a través de un grupo de estudiantes de instituto que tienen que hacer frente a temas recurrentes de su edad como las drogas, el sexo, la violencia, los problemas de identidad, los traumas, las redes sociales, el amor y la amistad."
+        "description": "Una reflexión sobre la adolescencia a través de un grupo de estudiantes de instituto que tienen que hacer frente a temas recurrentes de su edad como las drogas, el sexo, la violencia, los problemas de identidad, los traumas, las redes sociales, el amor y la amistad.",
+        "caps": [
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/u59av3aNA9zLXxBvy40hAQzJ2Hw.jpg",
+                "serieTitle": "Piloto",
+                "serieDescription":"Rue tiene 17 años y vuelve de rehabilitación."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/ddLvNMyADwUpiNOS42XXxdl4b6f.jpg",
+                "serieTitle": "Fardando",
+                "serieDescription":"El primer día de instituto Rue tiene una amiga nueva."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/sgs0AMFBHPenfwIsxqLSGqbnOhw.jpg",
+                "serieTitle": "Has mirado",
+                "serieDescription":"Jules comienza a enamorarse de un chico por Internet."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/ntavqh2ruslPIOVeRRFMvdi5WzM.jpg",
+                "serieTitle": "Bonnie y Clyde",
+                "serieDescription":"Maddy y Nate tienen que formar parte de una investigación policial."
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/3ff187LdnqgrrOQWlzGShPR5sLS.jpg",
+                "serieTitle": "Echar sal a tu paso",
+                "serieDescription":"El baile de invierno se celebra en East Highland."
+            }
+        ]
     },
     {
+        "id": "8",
         "type": "pelis",
         "title": "BEING JOHN MALKOVICH",
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/1Nyjb7aeRKynWgmOl8he5ZcvWLm.jpg",
@@ -61,6 +260,7 @@
         "description": ""
     },
     {
+        "id": "9",
         "type": "pelis",
         "title": "INGLORIOUS BASTERDS",
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/bMJxwgLyD47CDQ6BFCT2AMMlID7.jpg",
@@ -68,6 +268,7 @@
         "description": "Un titeretero que descubre un portal que conduce, literalmente, dentro de la cabeza de la estrella de cine John Malkovich"
     },
     {
+        "id": "10",
         "type": "pelis",
         "title": "MID90'S",
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/aycVJuqlxHSNfxHfTftuklLpjUC.jpg",
@@ -75,6 +276,7 @@
         "description": "Stevie, un chico de 13 años que vive en el Los Ángeles de los años 90, pasa el verano lidiando con los problemas de su vida doméstica y divirtiéndose con su nuevo grupo de amigos, que ha conocido en una tienda de skate."
     },
     {
+        "id": "11",
         "type": "pelis",
         "title": "THE LIGHTHOUSE",
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/tNE9HGcFOH8EpCmzO7XCYwqguI0.jpg",
@@ -82,6 +284,7 @@
         "description": "Una remota y misteriosa isla de Nueva Inglaterra. El veterano farero y su joven ayudante deberán convivir durante cuatro semanas. Las cosas se complicarán cuando surjan conflictos por jerarquías de poder entre ambos."
     },
     {
+        "id": "12",
         "type": "pelis",
         "title": "MIDSOMMAR",
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/zLNQcj4MhyQSfUSyxgJhmQLIfZ8.jpg",
@@ -89,6 +292,7 @@
         "description": "Lo que comienza como unas vacaciones de ensueño en un lugar en el que el sol no se pone nunca, poco a poco se convierte en una oscura pesadilla cuando los misteriosos aldeanos les invitan a participar en sus perturbadoras actividades festivas."
     },
     {
+        "id": "13",
         "type": "pelis",
         "title": "PRINCESS MONONOKE",
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/mpNd0rTVrp6vHJ9Je7wSa3zC8JS.jpg",
@@ -96,6 +300,7 @@
         "description": "Con el fin de curar la herida que le ha causado un jabalí enloquecido, el joven Ashitaka sale en busca del dios Ciervo, pues sólo él puede liberarlo del sortilegio. Descubre cómo los animales del bosque luchan contra hombres que están dispuestos a destruir la Naturaleza."
     },
     {
+        "id": "14",
         "type": "pelis",
         "title": "CALL ME BY YOUR NAME",
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/yK20evDYkI4ET0EY2fIsKsNF6Ip.jpg",
@@ -107,49 +312,238 @@
         "title": "MAD MEN",
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/ljOiRmGg96ltbNaCaxUkjdXyPjK.jpg",
         "imgPortada": "",
-        "description": "Aclamada serie dramática que narra los comienzos de una de las más prestigiosas agencias de publicidad de los años sesenta."
+        "description": "Aclamada serie dramática que narra los comienzos de una de las más prestigiosas agencias de publicidad de los años sesenta.",
+        "caps": [
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/mBqSKwUdiVkpXr5XCGzLmfmorkt.jpg",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/xvexoE0hPGaRy5yBzONhqcP0MoN.jpg",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/mEWOMeaYVBfcq78XLTqzDLEO7Kt.jpg",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/AaMX4X65Pa9TxK0MBqEstsjpvq7.jpg",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/fz9ekSIdGReJmBP5vPILltwIMAS.jpg",
+                "serieTitle": "",
+                "serieDescription":"."
+            }
+        ]
     },
     {
         "type": "seriesRecomendadas",
         "title": "FARGO",
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/2FsYA44kJ2cLB698tBc7bfn3GnB.jpg",
         "imgPortada": "",
-        "description": "En un pequeño pueblo de Minnesota, un inesperado giro de los acontecimientos perturba la vida de varias personas."
+        "description": "En un pequeño pueblo de Minnesota, un inesperado giro de los acontecimientos perturba la vida de varias personas.",
+        "caps": [
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":"."
+            }
+        ]
     },
     {
         "type": "seriesRecomendadas",
         "title": "BROEN BRON",
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/d1y1Bp0wWgA2LmPX5jVNz9Sx0Uf.jpg",
         "imgPortada": "",
-        "description": "Saga y Martin son dos policías de Suecia y Dinamarca, respectivamente, que cruzarán sus caminos por un crimen cometido en el puente que une ambos países, justo en la frontera."
+        "description": "Saga y Martin son dos policías de Suecia y Dinamarca, respectivamente, que cruzarán sus caminos por un crimen cometido en el puente que une ambos países, justo en la frontera.",
+        "caps": [
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":"."
+            }
+        ]
     },
     {
         "type": "seriesRecomendadas",
         "title": "BETTER CALL SAUL",
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/gxW8jcVf0nN5BBjiIRqJssh7m0p.jpg",
         "imgPortada": "",
-        "description": "Una serie nominada al Emmy que deriva de Breaking Bad y sigue la metamorfosis del abogado Jimmy McGill en Saul Goodman, el asesor inescrupuloso de Walter White."
+        "description": "Una serie nominada al Emmy que deriva de Breaking Bad y sigue la metamorfosis del abogado Jimmy McGill en Saul Goodman, el asesor inescrupuloso de Walter White.",
+        "caps": [
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":"."
+            }
+        ]
     },
     {
         "type": "seriesRecomendadas",
         "title": "LOS SIMULADORES",
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/CVldI1pzrg0TNQgXFOc9PMo9nB.jpg",
         "imgPortada": "",
-        "description": "Cuatro socios que, mediante operativos de simulacro sofisticados, «resuelven los problemas de gente común»."
+        "description": "Cuatro socios que, mediante operativos de simulacro sofisticados, «resuelven los problemas de gente común.",
+        "caps": [
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":"."
+            }
+        ]
     },
     {
         "type": "seriesRecomendadas",
         "title": "SEINFELD",
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/xxyZPKsc5h6PH5XMdbmuMjt4APf.jpg",
         "imgPortada": "",
-        "description": "La popular comedia de los 90 creada por Larry David y el protagonista de la misma Jerry Seinfeld que le da título, trata las experiencias de cuatro amigos en la ciudad de Manhattan"
+        "description": "La popular comedia de los 90 creada por Larry David y el protagonista de la misma Jerry Seinfeld que le da título, trata las experiencias de cuatro amigos en la ciudad de Manhattan",
+        "caps": [
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":"."
+            }
+        ]
     },
     {
         "type": "seriesRecomendadas",
         "title": "THE OFFICE",
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/klDoi212oi2ewNSvbzPOvOP0KCl.jpg",
         "imgPortada": "",
-        "description": "El día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin, de forma fresca y divertida, y con apariencia de pseudo-documental."
+        "description": "El día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin, de forma fresca y divertida, y con apariencia de pseudo-documental.",
+        "caps": [
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":""
+            },
+            {
+                "serieImg": "",
+                "serieTitle": "",
+                "serieDescription":"."
+            }
+        ]
     }
 
 ]

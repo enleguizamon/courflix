@@ -27,7 +27,7 @@ class InnerCarousel extends React.Component {
           {data.map((elem, key) => {
             if (elem.type == filter) {
               return (
-                <Card key={key} img={elem.img} />
+                <Card key={key} elem={elem} />
               )
             }
           })}

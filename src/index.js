@@ -3,11 +3,14 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import {BrowserRouter as Router, Route} from 'react-router-dom';
+import Secondary from './pages/secondary';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <Router>
+    <Route exact path="/" component={App} />
+    <Route exact path="/watch/:id" component={Secondary} />
+  </Router>,
   document.getElementById('root')
 );
 

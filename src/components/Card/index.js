@@ -1,12 +1,15 @@
 import React from 'react';
 import './style.scss'
+import { Link } from 'react-router-dom';
 
 class Card extends React.Component {
   render() {
-    const { img } = this.props;
+    const { elem } = this.props;
     return (
       <div className="cardWrapper">
-        <img className="img" src={img} />
+        <Link to={`/watch/${elem.id}`}>
+        <img className="img" src={elem.img} />
+        </Link>
       </div>
     );
   }
