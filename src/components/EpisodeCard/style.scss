@@ -1,0 +1,22 @@
+.episodeCardWrapper {
+    margin-right: 15px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 0.8rem;
+    :hover {
+        opacity: 0.6;
+    }
+    .serieImg {
+        border-radius: 3px;
+    
+    }
+    .serieTitle {
+        font-weight: bold;
+        margin-bottom: 10px;
+        padding-top: 10px;
+    }
+    .serieDescription {
+        width: 230px;
+        padding-bottom: 40px;
+        line-height: 15px;
+    }
+}

@@ -24,12 +24,28 @@
         padding-top: 20px;
         margin-bottom: 10px;
     }
+    .infoWrapper {
+        font-family: 'Open Sans', sans-serif; 
+        padding-left: 80px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-bottom: 25px;
+        .year {
+            margin-right: 20px;
+        }
+        .age {
+            margin-right: 20px;
+            border: 1px solid white;
+            border-radius: 5px;
+            padding: 5px 15px;
+        }
+    }
     .button {
         margin-top: 10px;
-        background: rgba(157, 151, 151, 0.541521);
+        background: rgba(100, 151, 151, 0.541521);
         border-radius: 9px;
-        height: 50px;
-        width: 145px;
+        height: 60px;
+        width: 165px;
         margin-right: 30px;
         font-family: 'Open Sans', sans-serif; 
         font-size: 1rem;
