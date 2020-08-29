@@ -1,8 +1,5 @@
-
-
 * {
     box-sizing: border-box;
-    color: white;
 }
 .hero-container {
     height: 100vh;
@@ -14,6 +11,7 @@
         padding-left: 85px;
         font-family: 'Open Sans', sans-serif;
         font-weight: bold;
+        color: white;
     }
     .serie-title {
         font-size: 4.5rem;
@@ -23,6 +21,7 @@
         padding-left: 75px;
         padding-top: 20px;
         margin-bottom: 10px;
+        color: white;
     }
     .infoWrapper {
         font-family: 'Open Sans', sans-serif; 
@@ -30,6 +29,7 @@
         padding-top: 10px;
         padding-bottom: 10px;
         margin-bottom: 25px;
+        color: white;
         .year {
             margin-right: 20px;
         }
@@ -51,19 +51,50 @@
         font-size: 1rem;
         border: none;
         outline: none;
+        color: white;
+        .play {
+            margin-right: 10px;
+        }
+        .plus {
+            margin-right: 5px;
+        }
         &:hover {
             background-color: rgba(0, 0, 0, 0.601);
         }
     }
-    
     .b1 {
         margin-left: 80px;
+    }
+    .icon {
+        border-radius: 50%;
+        height: 45px;
+        width: 45px;
+        padding: 7px;
+        margin-bottom: -15px;
+        margin-right: 10px;
+        &:hover {
+            color: rgba(0, 0, 0, 0.601);
+            border: 2px solid rgba(0, 0, 0, 0.601);
+        }
+    }
+    .white {
+        color: white;
+        border: 2px solid white;
+    }
+    .green {
+        color: rgb(50, 204, 50);
+        border: 2px solid rgb(50, 204, 50);
+    }
+    .red {
+        color: rgb(161, 0, 0);
+        border: 2px solid rgb(161, 0, 0);
     }
     .temp1 {
         margin-top: 30px;
         margin-left: 85px;
         font-family: 'Open Sans', sans-serif; 
         font-size: 1rem;
+        color: white;
     }
     .sinopsis {
         margin-top: 15px;
@@ -72,5 +103,6 @@
         font-size: 1.2rem;
         width: 450px;
         line-height: 25px;
+        color: white;
     }
 }
