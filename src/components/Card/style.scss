@@ -1,18 +1,34 @@
 .cardWrapper {
     display: flex;
-    height: 140px;
+    flex-direction: column;
+    height: 170px;
     width: 250px;
     margin-right: 15px;
+
     
-    :hover {
-        opacity: 0.6;
-        transform: scale(1.05);
-        margin-left: 10px;
-        margin-right: 10px;
-        margin: 0 auto;
-    }
     .img {
         width: 100%;
+        height: 150px;
         border-radius: 3px;
+        &:hover {
+            opacity: 0.6;
+            transform: scale(1.05);
+            margin-left: 10px;
+            margin-right: 10px;
+            margin: 0 auto;
+        }
+    }
+    .progressBar {
+        width: 250px;
+        height: 10px;
+        background-color: #333;
+        margin-top: 10px;
+        border-radius: 2px;
+        .progress {
+            width: 0%;
+            height: 100%;
+            border-radius: 2px;
+            background-color: red;
+        }
     }
 }

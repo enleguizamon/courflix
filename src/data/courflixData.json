@@ -20,6 +20,7 @@
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
         "imgPortada": "https://cdn.newsapi.com.au/image/v1/875e4001bf9c265695aa370e96801d30",
         "description": "Tony Soprano, mafioso de Nueva Jersey enfrenta las dificultades tanto en su hogar como en la organización criminal que dirige.",
+        "seen": "75%",
         "episodes": [
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/rp60DTAFpbaz9vaC1G9SVzQgwOM.jpg",
@@ -58,6 +59,7 @@
         "img":"https://image.tmdb.org/t/p/w250_and_h141_face/oggnxmvofLtGQvXsO9bAFyCj3p6.jpg",
         "imgPortada": "https://images-na.ssl-images-amazon.com/images/I/712kFUpnVIL._AC_SL1224_.jpg",
         "description": "En los barrios bajos de Baltimore, se investiga un asesinato relacionado con el mundo de las drogas.",
+        "seen": "30%",
         "episodes": [
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/6Nvita938dYtiMXOIEYsjKzTJ1.jpg",
@@ -96,6 +98,7 @@
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/dEJsGjk81tZeL3JVOuDfnPulHed.jpg",
         "imgPortada": "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/815/cached.offlinehbpl.hbpl.co.uk/news/WAC/FleabagTB-20190306115443380.jpg",
         "description": "Fleabag es una joven londinense de 30 años, que pasa por una crisis vital tras perder a su mejor amiga. Sin reparos, la protagonista desafía al espectador que quiera plantearse realizar un juicio moral sobre sus acciones.",
+        "seen": "50%",
         "episodes": [
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/vlFDprUHK2yNBDsbIXsFNP8ludv.jpg",
@@ -133,6 +136,8 @@
         "seasons": "3 temporadas",
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/d2tAqGQzuP3gYwrVavrnK06xnO4.jpg",
         "imgPortada": "https://1.bp.blogspot.com/-oTKMnSotbyw/XVSBrU17yjI/AAAAAAAAQEw/0EKwsDjMaO08OweciyPCrPnaWUIiTUuggCLcBGAs/s1600/cq5dam.web.1200.675.jpeg",
+        "description": "Drama familiar que sigue a los Roy, dueños de un gran imperio mediático manejado con mano de hierro por Logan Roy",
+        "seen": "10%",
         "episodes": [
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/9r1kC6EvzMdg3BkEqBhfM3QgJVG.jpg",
@@ -171,6 +176,7 @@
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/bHwrMWhF45bV3sw8dmkHGXgD8FL.jpg",
         "imgPortada": "https://www.okchicas.com/wp-content/uploads/2020/05/15-Mejor-series-de-comedia-para-una-tarde-de-carcajadas-10.jpg",
         "description": "En la ciudad de Atlanta, dos primos afroamericanos se meten en el mundo del rap. Su evolución profesional será complicada por su diferente percepción de lo que es el arte, el producto, el éxito y otras cosas.",
+        "seen": "40%",
         "episodes": [
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/bQPHD6yFwk75PpLGpgxe9V2WRLT.jpg",
@@ -209,6 +215,7 @@
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/zjjlxRnTXFpTEHTCtvYDVhBAq6g.jpg",
         "imgPortada": "https://pics.filmaffinity.com/Six_Feet_Under_TV_Series-843362443-large.jpg",
         "description": "Narra la vida de los miembros de una peculiar familia de Los Ángeles que posee una empresa funeraria.",
+        "seen": "5%",
         "episodes": [
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/cSLWrRhHOksHBugGWfYMLlfBgTW.jpg",
@@ -247,6 +254,7 @@
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/9KnIzPCv9XpWA0MqmwiKBZvV1Sj.jpg",
         "imgPortada": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/euphoria-hbo-serie-posible-final-1564656781.jpg",
         "description": "Una reflexión sobre la adolescencia a través de un grupo de estudiantes de instituto que tienen que hacer frente a temas recurrentes de su edad como las drogas, el sexo, la violencia, los problemas de identidad, los traumas, las redes sociales, el amor y la amistad.",
+        "seen": "95%",
         "episodes": [
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/u59av3aNA9zLXxBvy40hAQzJ2Hw.jpg",
