@@ -48,7 +48,7 @@ class Hero extends React.Component {
     if (showThumbs) {
       icons = <>
         <FontAwesomeIcon icon={faThumbsUp} className={`icon ${this.state.thumbsUp}`} onClick={() => this.handleClickUp()} />
-        <FontAwesomeIcon icon={faThumbsDown} className={`icon ${this.state.thumbsDown}`} onClick={() => this.handleClickDown()} />
+        <FontAwesomeIcon icon={faThumbsDown} className={`icon i1 ${this.state.thumbsDown}`} onClick={() => this.handleClickDown()} />
       </>
     }
     return (
@@ -62,7 +62,7 @@ class Hero extends React.Component {
           <span>{data.duration}</span>
         </div>
         <button className="button b1"><FontAwesomeIcon icon={faPlay} className="play" />Reproducir</button>
-        <button className="button"><FontAwesomeIcon icon={faPlus} className="plus" /> Mi lista</button>
+        <button className="button"><FontAwesomeIcon icon={faPlus} className="plus" />Mi lista</button>
         {icons}
         <p className="sinopsis">{data.description}</p>
       </div>

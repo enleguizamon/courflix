@@ -6,11 +6,11 @@ class Carousel extends React.Component {
   render() {
     return (
       <div className="carouselWrapper">
-        <h3 className="carouselTitle">Continuar viendo</h3>
-        <InnerCarousel data={this.props.data} filter={"series"} />
-        <h3 className="carouselTitle">Películas</h3>
+        <h3 className="carouselTitle" id="series">Continuar viendo</h3>
+        <InnerCarousel data={this.props.data} filter={"series"}/>
+        <h3 className="carouselTitle" id="peliculas">Películas</h3>
         <InnerCarousel data={this.props.data} filter={"pelis"} />
-        <h3 className="carouselTitle">Series Recomendadas</h3>
+        <h3 className="carouselTitle" id="recientementeAgregado">Agregados recientemente</h3>
         <InnerCarousel data={this.props.data} filter={"seriesRecomendadas"} />
       </div>
     );
