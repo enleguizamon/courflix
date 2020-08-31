@@ -2,12 +2,14 @@
     margin-right: 15px;
     font-family: "Open Sans", sans-serif;
     font-size: 0.8rem;
-    :hover {
-        opacity: 0.6;
+    @media screen and(max-width: 768px){
+        margin-left: 25px;
     }
     .serieImg {
         border-radius: 3px;
-    
+        &:hover {
+            opacity: 0.6;
+        }
     }
     .serieTitle {
         font-weight: bold;

@@ -1,13 +1,21 @@
 .logoCourflix {
     height: 60px;
-margin-top: 20px;
-margin-left: 80px;
-position: absolute;
+    margin-top: 25px;
+    margin-left: 80px;
+    position: absolute;
+    @media screen and(max-width: 768px){
+        height: 40px;
+        margin-top: 30px;
+        margin-left: 20px;
+    }
 }
 .watchMovies {
-    font-family: 'Open Sans', sans-serif;
-        font-size: 1.2rem;
-        padding-bottom: 10px;
-        padding-left: 100px;
-        color: white; 
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.2rem;
+    padding-bottom: 10px;
+    padding-left: 100px;
+    color: white;
+    @media screen and(max-width: 768px){
+        margin-left: -100px;
+    }
 }

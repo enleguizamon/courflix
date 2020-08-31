@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
 
+$tablet-breakpoint: 768px;
+$phone-breakpoint: 600px;
+
 html {
     scroll-behavior: smooth;
   }
@@ -22,6 +25,12 @@ html {
         display: inline-flex;
         margin-top: 30px;
         margin-left: 220px;
+        @media screen and(max-width: 800px){
+            margin-left: 160px;
+        }
+        @media screen and(max-width: $tablet-breakpoint){
+            display: none;
+        }
         .link {
             font-size: 1rem;
             margin-right: 20px;

@@ -7,6 +7,9 @@
         font-family: 'Open Sans', sans-serif;
         padding-top: 20px;
         margin-bottom: -30px;
+        @media screen and(max-width: 768px){
+            margin-left: -45px;
+        }
     }
     .episodesSlick {
         width: 85%;
