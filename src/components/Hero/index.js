@@ -41,6 +41,13 @@ class Hero extends React.Component {
     }
   }
 
+  handleClick() {
+    console.log("hola")
+    this.setState({
+      play: true
+    })
+  }
+
   render() {
     const { data, showThumbs } = this.props;
     let icons;
@@ -51,6 +58,7 @@ class Hero extends React.Component {
         <FontAwesomeIcon icon={faThumbsDown} className={`icon i1 ${this.state.thumbsDown}`} onClick={() => this.handleClickDown()} />
       </>
     }
+
     return (
       <div className="hero-container" style={{ backgroundImage: `linear-gradient(30deg, rgba(0, 0, 0, 0.884), rgba(170, 170, 170, 0.11)), url(${data.imgPortada})` }}>
         <h3 className="subtitle">Original de COURFLIX</h3>
@@ -61,7 +69,7 @@ class Hero extends React.Component {
           <span className="seasons">{data.seasons}</span>
           <span>{data.duration}</span>
         </div>
-        <button className="button b1"><FontAwesomeIcon icon={faPlay} className="play" />Reproducir</button>
+        <button className="button b1" onClick={()=> this.handleClick()} ><FontAwesomeIcon icon={faPlay} className="play" />Reproducir</button>
         <button className="button"><FontAwesomeIcon icon={faPlus} className="plus" />Mi lista</button>
         {icons}
         <p className="sinopsis">{data.description}</p>

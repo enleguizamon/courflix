@@ -21,6 +21,7 @@
         "imgPortada": "https://cdn.newsapi.com.au/image/v1/875e4001bf9c265695aa370e96801d30",
         "description": "Tony Soprano, mafioso de Nueva Jersey enfrenta las dificultades tanto en su hogar como en la organización criminal que dirige.",
         "seen": "75%",
+        "trailer": "https://www.youtube.com/watch?v=_RLMKuf23PE&ab_channel=Mr.Dutch-Trailers",
         "episodes": [
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/rp60DTAFpbaz9vaC1G9SVzQgwOM.jpg",
@@ -213,7 +214,7 @@
         "age": "+16",
         "seasons": "5 temporadas",
         "img":"https://image.tmdb.org/t/p/w500_and_h282_face/zjjlxRnTXFpTEHTCtvYDVhBAq6g.jpg",
-        "imgPortada": "https://pics.filmaffinity.com/Six_Feet_Under_TV_Series-843362443-large.jpg",
+        "imgPortada": "https://static2.abc.es/media/play/2019/06/03/six-feet-under-poster-klM--1200x630@abc.jpeg",
         "description": "Narra la vida de los miembros de una peculiar familia de Los Ángeles que posee una empresa funeraria.",
         "seen": "5%",
         "episodes": [
@@ -362,7 +363,7 @@
     },
     {
         "id": "15",
-        "type": "seriesRecomendadas",
+        "type": "recientementeAgregado",
         "title": "MAD MEN",
         "year": "2007",
         "age": "+16",
@@ -400,7 +401,7 @@
     },
     {
         "id": "16",
-        "type": "seriesRecomendadas",
+        "type": "recientementeAgregado",
         "title": "FARGO",
         "year": "2014",
         "age": "+16",
@@ -438,7 +439,7 @@
     },
     {
         "id": "17",
-        "type": "seriesRecomendadas",
+        "type": "recientementeAgregado",
         "title": "BROEN BRON",
         "year": "2011",
         "age": "+16",
@@ -476,7 +477,7 @@
     },
     {
         "id": "18",
-        "type": "seriesRecomendadas",
+        "type": "recientementeAgregado",
         "title": "BETTER CALL SAUL",
         "year": "2005",
         "age": "+16",
@@ -514,7 +515,7 @@
     },
     {
         "id": "19",
-        "type": "seriesRecomendadas",
+        "type": "recientementeAgregado",
         "title": "LOS SIMULADORES",
         "year": "2002",
         "age": "+13",
@@ -552,7 +553,7 @@
     },
     {
         "id": "20",
-        "type": "seriesRecomendadas",
+        "type": "recientementeAgregado",
         "title": "SEINFELD",
         "year": "1989",
         "age": "+13",
@@ -590,7 +591,7 @@
     },
     {
         "id": "21",
-        "type": "seriesRecomendadas",
+        "type": "recientementeAgregado",
         "title": "THE OFFICE",
         "year": "2005",
         "age": "+13",

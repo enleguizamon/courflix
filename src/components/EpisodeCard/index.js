@@ -9,7 +9,6 @@ class Card extends React.Component {
                 <img className="serieImg" src={episode.serieImg} />
                 <p className="serieTitle">{episode.serieTitle}</p>
                 <p className="serieDescription">{episode.serieDescription}</p>
-                <div className="bottom"></div>
             </div>
         );
     }

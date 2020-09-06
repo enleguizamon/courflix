@@ -11,7 +11,7 @@ class Carousel extends React.Component {
         <h3 className="carouselTitle" id="peliculas">Películas</h3>
         <InnerCarousel data={this.props.data} filter={"pelis"} />
         <h3 className="carouselTitle" id="recientementeAgregado">Agregados recientemente</h3>
-        <InnerCarousel data={this.props.data} filter={"seriesRecomendadas"} />
+        <InnerCarousel data={this.props.data} filter={"recientementeAgregado"} />
       </div>
     );
   }
