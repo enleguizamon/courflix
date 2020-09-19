@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap");
 
 $tablet-breakpoint: 768px;
 $phone-breakpoint: 600px;
 
 html {
     scroll-behavior: smooth;
-  }
+}
 * {
     box-sizing: border-box;
 }
@@ -17,18 +17,18 @@ html {
     z-index: 999;
     .logo {
         height: 40px;
-    margin-top: 21px;
-    margin-left: 80px;
-    position: absolute;
+        margin-top: 21px;
+        margin-left: 80px;
+        position: absolute;
     }
     .link-container {
         display: inline-flex;
         margin-top: 30px;
         margin-left: 220px;
-        @media screen and(max-width: 800px){
+        @media screen and(max-width: 800px) {
             margin-left: 160px;
         }
-        @media screen and(max-width: $tablet-breakpoint){
+        @media screen and(max-width: $tablet-breakpoint) {
             display: none;
         }
         .link {
@@ -36,7 +36,7 @@ html {
             margin-right: 20px;
             text-decoration: none;
             color: white;
-            font-family: 'Open Sans', sans-serif;   
+            font-family: "Open Sans", sans-serif;
             font-weight: bold;
         }
         .inicio {

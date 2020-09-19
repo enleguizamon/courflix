@@ -11,9 +11,10 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <Navbar/>
-        <Hero data={data[0]} showThumbs={false}/>
-        <Carousel data={data}/>
+        <Navbar />
+        {/*en la página principal muestro el primer elemento del json y no muestro el like/dislike*/}
+        <Hero data={data[0]} showThumbs={false} />
+        <Carousel data={data} />
         <Footer />
       </div>
     );

@@ -17,7 +17,7 @@ class EpisodesCarousel extends React.Component {
       slidesToScroll: 1,
       responsive: [
         {
-          breakpoint: 768, 
+          breakpoint: 768,
           settings: 'unslick'
         }
       ]
@@ -28,12 +28,12 @@ class EpisodesCarousel extends React.Component {
     const { episodes } = this.props;
     return (
       <div className="episodesWrapper">
-          <p className="episodesTitle">Ve la temporada 1</p>
+        <p className="episodesTitle">Ve la temporada 1</p>
         <Slider {...this.settings} className="episodesSlick">
           {episodes.map((episode, key) => {
-              return (
-                <EpisodeCard key={key} episode={episode} />
-              )
+            return (
+              <EpisodeCard key={key} episode={episode} />
+            );
           })}
         </Slider>
       </div>

@@ -4,10 +4,10 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHeart } from '@fortawesome/free-solid-svg-icons'
 
 class Footer extends React.Component {
-    render () {
+    render() {
         return (
-            <div className="footer">Made with <FontAwesomeIcon icon={faHeart} color={"#A52A2A" } /> by Eli</div>
-        )
+            <div className="footer">Made with <FontAwesomeIcon icon={faHeart} color={"#A52A2A"} /> by Eli</div>
+        );
     }
 }
 

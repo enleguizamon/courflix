@@ -11,6 +11,7 @@ import { Link } from 'react-router-dom';
 class Secondary extends React.Component {
   render() {
     const id = this.props.match.params.id;
+    //si el id es del type "pelis", uso el innerCarousel, si el id es de "series" uso el carousel de episodios.
     if (data[id].type == "pelis") {
       return (
         <div>

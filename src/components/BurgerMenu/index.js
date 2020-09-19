@@ -10,16 +10,16 @@ class BurgerMenu extends React.Component {
   render() {
     return (
       <div className="menuWrapper">
-      <Menu>
-        <div className="burgerLinkContainer">
-          <a href="#" className="burgerLink inicio">Inicio</a>
-          <a href="#series" className="burgerLink">Series</a>
-          <a href="#peliculas" className="burgerLink">Películas</a>
-          <a href="#recientementeAgregado" className="burgerLink">Agregados recientemente</a>
-          <a href="#" className="burgerLink">Mi lista</a>
-          <a onClick={this.showSettings} className="menu-item--small" href=""></a>
-        </div>
-      </Menu>
+        <Menu>
+          <div className="burgerLinkContainer">
+            <a href="#" className="burgerLink inicio">Inicio</a>
+            <a href="#series" className="burgerLink">Series</a>
+            <a href="#peliculas" className="burgerLink">Películas</a>
+            <a href="#recientementeAgregado" className="burgerLink">Agregados recientemente</a>
+            <a href="#" className="burgerLink">Mi lista</a>
+            <a onClick={this.showSettings} className="menu-item--small" href=""></a>
+          </div>
+        </Menu>
       </div>
     )
   }

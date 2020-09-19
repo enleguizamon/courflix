@@ -6,8 +6,9 @@
         "year": "2018",
         "age": "+13",
         "duration": "1h 45m",
-        "img":"https://media.vanityfair.com/photos/5a871cc947ef634077a69e48/16:9/w_1280,c_limit/Isle-of-Dogs-Review.jpg",
+        "img": "https://media.vanityfair.com/photos/5a871cc947ef634077a69e48/16:9/w_1280,c_limit/Isle-of-Dogs-Review.jpg",
         "imgPortada": "https://img.culturacolectiva.com/featured_image/2018/05/02/1525286373313/mayo-mes-de-wes-anderson-en-cineteca-nacional-d.jpg",
+        "trailer": "https://www.youtube.com/watch?v=GKw_SNK8G_Q&ab_channel=TrailersInSpanish",
         "description": "Un Japón distópico, dentro de 20 años. La saturación canina ha alcanzado proporciones de epidemia en Megasaki."
     },
     {
@@ -17,75 +18,76 @@
         "year": "1999",
         "age": "+16",
         "seasons": "6 temporadas",
-        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
+        "img": "https://image.tmdb.org/t/p/w500_and_h282_face/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
         "imgPortada": "https://cdn.newsapi.com.au/image/v1/875e4001bf9c265695aa370e96801d30",
         "description": "Tony Soprano, mafioso de Nueva Jersey enfrenta las dificultades tanto en su hogar como en la organización criminal que dirige.",
-        "seen": "75%",
+        "seenPercentage": "75%",
         "trailer": "https://www.youtube.com/watch?v=_RLMKuf23PE&ab_channel=Mr.Dutch-Trailers",
         "episodes": [
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/rp60DTAFpbaz9vaC1G9SVzQgwOM.jpg",
                 "serieTitle": "1. Piloto",
-                "serieDescription":"Anthony Soprano, un capo de la Familia mafiosa DiMeo, empieza a asistir a terapia con la Dra. Jennifer Melfi después de tener ataques de ansiedad."
+                "serieDescription": "Anthony Soprano, un capo de la Familia mafiosa DiMeo, empieza a asistir a terapia con la Dra. Jennifer Melfi después de tener ataques de ansiedad."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/huaDp6GlmXQgqSVQSzVykMOVS02.jpg",
                 "serieTitle": "2. Largo",
-                "serieDescription":"Christopher y Brendan Filone empiezan a secuestrar camiones. Aunque averiguan que el dueño de los camiones paga a Junior por protección."
+                "serieDescription": "Christopher y Brendan Filone empiezan a secuestrar camiones. Aunque averiguan que el dueño de los camiones paga a Junior por protección."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/pR7Ag4lzWOexnzfsCXvZP6HkyD0.jpg",
                 "serieTitle": "3. Negación, enfado y aceptación",
-                "serieDescription":"Los Soprano alquilan el restaurante de Artie para celebrar una cena."
+                "serieDescription": "Los Soprano alquilan el restaurante de Artie para celebrar una cena."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/jnNSVBFDUsW0Wu5gvWcPW2eMW8N.jpg",
                 "serieTitle": "4. Meadowlands",
-                "serieDescription":"Tony y su amigo el Detective Vin Makazian siguen a la Doctora Melfi, una vez que a Tony ha soñado con ella."
+                "serieDescription": "Tony y su amigo el Detective Vin Makazian siguen a la Doctora Melfi, una vez que a Tony ha soñado con ella."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/6WWp1vXyppt8Z08HSPJq16DESkP.jpg",
                 "serieTitle": "5. College",
-                "serieDescription":"Tony y Meadow viajan a Maine a visitar universidades, y discuten acerca de la naturaleza de los negocios de Tony"
+                "serieDescription": "Tony y Meadow viajan a Maine a visitar universidades, y discuten acerca de la naturaleza de los negocios de Tony"
             }
         ]
     },
     {
-        "id":"2",
+        "id": "2",
         "type": "series",
         "title": "THE WIRE",
         "year": "2002",
         "age": "+16",
         "seasons": "5 temporadas",
-        "img":"https://image.tmdb.org/t/p/w250_and_h141_face/oggnxmvofLtGQvXsO9bAFyCj3p6.jpg",
+        "img": "https://image.tmdb.org/t/p/w250_and_h141_face/oggnxmvofLtGQvXsO9bAFyCj3p6.jpg",
         "imgPortada": "https://images-na.ssl-images-amazon.com/images/I/712kFUpnVIL._AC_SL1224_.jpg",
         "description": "En los barrios bajos de Baltimore, se investiga un asesinato relacionado con el mundo de las drogas.",
-        "seen": "30%",
+        "seenPercentage": "30%",
+        "trailer": "https://www.youtube.com/watch?v=9qK-VGjMr8g&ab_channel=TechGumbo",
         "episodes": [
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/6Nvita938dYtiMXOIEYsjKzTJ1.jpg",
                 "serieTitle": "1. El objetivo",
-                "serieDescription":"...'Cuando no es tu turno' - McNulty."
+                "serieDescription": "...'Cuando no es tu turno' - McNulty."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/nfQGFIi94bsk9wwbN1BLlLuhEnu.jpg",
                 "serieTitle": "2. El detalle",
-                "serieDescription":"'No puedes perder si no juegas' - Marla Daniels."
+                "serieDescription": "'No puedes perder si no juegas' - Marla Daniels."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/yiEGeOl1qteH5tzxsDLM0lC4vo5.jpg",
                 "serieTitle": "3. Las compras",
-                "serieDescription":"'El rey sigue siendo el rey' - D'Angelo."
+                "serieDescription": "'El rey sigue siendo el rey' - D'Angelo."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/zJVDfDCsaVJxJUDUStGVaqm2zbm.jpg",
                 "serieTitle": "4. Casos antiguos",
-                "serieDescription":"'Es una delgada línea entre el cielo y aquí.' - Bubbles."
+                "serieDescription": "'Es una delgada línea entre el cielo y aquí.' - Bubbles."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/hGWCLPaie8xmI2BHBenox7wdTac.jpg",
                 "serieTitle": "5. El buscapersonas",
-                "serieDescription":"..un poco lento, un poco tarde. - Avon Barksdale."
+                "serieDescription": "..un poco lento, un poco tarde. - Avon Barksdale."
             }
         ]
     },
@@ -96,35 +98,36 @@
         "year": "2016",
         "age": "+16",
         "seasons": "2 temporadas",
-        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/dEJsGjk81tZeL3JVOuDfnPulHed.jpg",
+        "img": "https://image.tmdb.org/t/p/w500_and_h282_face/dEJsGjk81tZeL3JVOuDfnPulHed.jpg",
         "imgPortada": "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/815/cached.offlinehbpl.hbpl.co.uk/news/WAC/FleabagTB-20190306115443380.jpg",
         "description": "Fleabag es una joven londinense de 30 años, que pasa por una crisis vital tras perder a su mejor amiga. Sin reparos, la protagonista desafía al espectador que quiera plantearse realizar un juicio moral sobre sus acciones.",
-        "seen": "50%",
+        "seenPercentage": "50%",
+        "trailer": "https://www.youtube.com/watch?v=L3iqdpYoZNU&t=7s&ab_channel=AmazonPrimeVideoEspa%C3%B1a",
         "episodes": [
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/vlFDprUHK2yNBDsbIXsFNP8ludv.jpg",
                 "serieTitle": "Episodio 1",
-                "serieDescription":"Fleabag irrumpe en Londres, buscando razones para seguir con su vida."
+                "serieDescription": "Fleabag irrumpe en Londres, buscando razones para seguir con su vida."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/yQoj0DSvLFsL1rHojlg8NGoFdrS.jpg",
                 "serieTitle": "Episodio 2",
-                "serieDescription":"Fleabag está en una pobre situación mental, atormentada en los recuerdos de su fallecida mejor amiga."
+                "serieDescription": "Fleabag está en una pobre situación mental, atormentada en los recuerdos de su fallecida mejor amiga."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/7uo4YNnYcAoCrGkND5YyeFqUGTY.jpg",
                 "serieTitle": "Episodio 3",
-                "serieDescription":"Fleabag retoma contacto con un viejo amigo para probar suerte en sus relaciones románticas."
+                "serieDescription": "Fleabag retoma contacto con un viejo amigo para probar suerte en sus relaciones románticas."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/5zqMpp6ITsFaJQgBcDboalu6pKN.jpg",
                 "serieTitle": "Episodio 4",
-                "serieDescription":"El padre de Fleabag y su hermana las envía a un retiro femenino de silencio."
+                "serieDescription": "El padre de Fleabag y su hermana las envía a un retiro femenino de silencio."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/AmijSCBSw13HcYVrER0gl006cs4.jpg",
                 "serieTitle": "Episodio 5",
-                "serieDescription":"Fleabag y Claire vuelven a su casa por el aniversario de la muerte de su madre."
+                "serieDescription": "Fleabag y Claire vuelven a su casa por el aniversario de la muerte de su madre."
             }
         ]
     },
@@ -135,35 +138,36 @@
         "year": "2018",
         "age": "+16",
         "seasons": "3 temporadas",
-        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/d2tAqGQzuP3gYwrVavrnK06xnO4.jpg",
+        "img": "https://image.tmdb.org/t/p/w500_and_h282_face/d2tAqGQzuP3gYwrVavrnK06xnO4.jpg",
         "imgPortada": "https://1.bp.blogspot.com/-oTKMnSotbyw/XVSBrU17yjI/AAAAAAAAQEw/0EKwsDjMaO08OweciyPCrPnaWUIiTUuggCLcBGAs/s1600/cq5dam.web.1200.675.jpeg",
         "description": "Drama familiar que sigue a los Roy, dueños de un gran imperio mediático manejado con mano de hierro por Logan Roy",
-        "seen": "10%",
+        "seenPercentage": "10%",
+        "trailer": "https://www.youtube.com/watch?v=QtWE0Kql4EU&ab_channel=ElS%C3%A9ptimoArte",
         "episodes": [
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/9r1kC6EvzMdg3BkEqBhfM3QgJVG.jpg",
                 "serieTitle": "1. Celebración",
-                "serieDescription":"El magnate de los medios de comunicación Logan Roy sorprende a su familia con una increíble noticia."
+                "serieDescription": "El magnate de los medios de comunicación Logan Roy sorprende a su familia con una increíble noticia."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/ii2EJNOxpSraR8icuYHGbO4avAU.jpg",
                 "serieTitle": "2. Sh*t Show at the F**k Factory",
-                "serieDescription":"La incapacidad de Logan provoca una acalorada discusión sobre quién será su sucesor."
+                "serieDescription": "La incapacidad de Logan provoca una acalorada discusión sobre quién será su sucesor."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/5znXaotuoGAY2rtPw8WWjbcsyyI.jpg",
                 "serieTitle": "3. Salvavidas",
-                "serieDescription":"Kendall debe afrontar una crisis en Waystar."
+                "serieDescription": "Kendall debe afrontar una crisis en Waystar."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/145Os0X7gilqJcNEdAyzKlvaD0S.jpg",
                 "serieTitle": "4. La trampa para los ricos y los desfavorecidos",
-                "serieDescription":"La familia acude a una fiesta anual de la compañía."
+                "serieDescription": "La familia acude a una fiesta anual de la compañía."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/s51pU8QMDODpHQfQuvpJnSyr0NL.jpg",
                 "serieTitle": "5. He ido al mercado",
-                "serieDescription":"Kendall empieza a planear una moción de censura contra Logan."
+                "serieDescription": "Kendall empieza a planear una moción de censura contra Logan."
             }
         ]
     },
@@ -174,35 +178,36 @@
         "year": "2016",
         "age": "+16",
         "seasons": "2 temporadas",
-        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/bHwrMWhF45bV3sw8dmkHGXgD8FL.jpg",
+        "img": "https://image.tmdb.org/t/p/w500_and_h282_face/bHwrMWhF45bV3sw8dmkHGXgD8FL.jpg",
         "imgPortada": "https://www.okchicas.com/wp-content/uploads/2020/05/15-Mejor-series-de-comedia-para-una-tarde-de-carcajadas-10.jpg",
         "description": "En la ciudad de Atlanta, dos primos afroamericanos se meten en el mundo del rap. Su evolución profesional será complicada por su diferente percepción de lo que es el arte, el producto, el éxito y otras cosas.",
-        "seen": "40%",
+        "seenPercentage": "40%",
+        "trailer": "https://www.youtube.com/watch?v=Gzj6xRSEUrY&ab_channel=TeVeAdictos",
         "episodes": [
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/bQPHD6yFwk75PpLGpgxe9V2WRLT.jpg",
                 "serieTitle": "1. El Big Bang",
-                "serieDescription":"Arruinado y con pocas opciones, Earn se ofrece como manager de su primo rapero, Paper Boi."
+                "serieDescription": "Arruinado y con pocas opciones, Earn se ofrece como manager de su primo rapero, Paper Boi."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/6qu9IycK1bmftZ8f7NUvGwElT2Z.jpg",
                 "serieTitle": "2. Perros callejeros",
-                "serieDescription":"La brutalidad policial, la enfermedad mental y la transfobia surgen mientras Earn espera que su fianza sea pagada."
+                "serieDescription": "La brutalidad policial, la enfermedad mental y la transfobia surgen mientras Earn espera que su fianza sea pagada."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/xVarlB7yliNCqVm4tzY0TckTmzK.jpg",
                 "serieTitle": "3. Ir por todo",
-                "serieDescription":"Earn tiene una cita con Van a pesar de estar arruinado."
+                "serieDescription": "Earn tiene una cita con Van a pesar de estar arruinado."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/8vWx0MnqU8om1LDbEEBpnGda1yU.jpg",
                 "serieTitle": "4. El efecto Streisand",
-                "serieDescription":"Darius ayuda a Earn a buscar una manera de ganar mucho dinero rápido."
+                "serieDescription": "Darius ayuda a Earn a buscar una manera de ganar mucho dinero rápido."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/hbI7IClzuPkdpJvfVKnSt2SugB5.jpg",
                 "serieTitle": "5. Nadie puede con Bieber",
-                "serieDescription":"Paper Boi asiste a un evento de celebrities para jóvenes y es burlado por un artista de hip hop más famoso."
+                "serieDescription": "Paper Boi asiste a un evento de celebrities para jóvenes y es burlado por un artista de hip hop más famoso."
             }
         ]
     },
@@ -213,35 +218,36 @@
         "year": "2001",
         "age": "+16",
         "seasons": "5 temporadas",
-        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/zjjlxRnTXFpTEHTCtvYDVhBAq6g.jpg",
+        "img": "https://image.tmdb.org/t/p/w500_and_h282_face/zjjlxRnTXFpTEHTCtvYDVhBAq6g.jpg",
         "imgPortada": "https://static2.abc.es/media/play/2019/06/03/six-feet-under-poster-klM--1200x630@abc.jpeg",
         "description": "Narra la vida de los miembros de una peculiar familia de Los Ángeles que posee una empresa funeraria.",
-        "seen": "5%",
+        "seenPercentage": "5%",
+        "trailer": "https://www.youtube.com/watch?v=SZyhc_4gKAs&ab_channel=Mr.Dutch-Trailers",
         "episodes": [
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/cSLWrRhHOksHBugGWfYMLlfBgTW.jpg",
                 "serieTitle": "1. El testamento",
-                "serieDescription":"El fundador de una cadena de franquicias muere."
+                "serieDescription": "El fundador de una cadena de franquicias muere."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/9qe6tSVJUFhwgqsGShlEf55iPVk.jpg",
                 "serieTitle": "2. El pie",
-                "serieDescription":"El dueño de una panadería muere."
+                "serieDescription": "El dueño de una panadería muere."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/h9vkotvTCpXlknDal3cR9AzgAqy.jpg",
                 "serieTitle": "3. Familia",
-                "serieDescription":"Muere un pandillero mexicano."
+                "serieDescription": "Muere un pandillero mexicano."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/cJNhcl46ypJ5cvk05PLHQwSHcaL.jpg",
                 "serieTitle": "4. Un libro abierto",
-                "serieDescription":"Brenda sugiere que vayan a algunos funerales haciéndose pasar por familiares de los fallecidos."
+                "serieDescription": "Brenda sugiere que vayan a algunos funerales haciéndose pasar por familiares de los fallecidos."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/1DkH4Dh3ob6bB0xDn21EAUzlhaA.jpg",
                 "serieTitle": "5. La habitación",
-                "serieDescription":"Un viudo con muy mal genio visita la funeraria de los Fisher."
+                "serieDescription": "Un viudo con muy mal genio visita la funeraria de los Fisher."
             }
         ]
     },
@@ -252,35 +258,36 @@
         "year": "2019",
         "age": "+16",
         "seasons": "1 temporada",
-        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/9KnIzPCv9XpWA0MqmwiKBZvV1Sj.jpg",
+        "img": "https://image.tmdb.org/t/p/w500_and_h282_face/9KnIzPCv9XpWA0MqmwiKBZvV1Sj.jpg",
         "imgPortada": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/euphoria-hbo-serie-posible-final-1564656781.jpg",
         "description": "Una reflexión sobre la adolescencia a través de un grupo de estudiantes de instituto que tienen que hacer frente a temas recurrentes de su edad como las drogas, el sexo, la violencia, los problemas de identidad, los traumas, las redes sociales, el amor y la amistad.",
-        "seen": "95%",
+        "seenPercentage": "95%",
+        "trailer": "https://www.youtube.com/watch?v=RWBQL654cNg&ab_channel=Sof%C3%ADaGual",
         "episodes": [
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/u59av3aNA9zLXxBvy40hAQzJ2Hw.jpg",
                 "serieTitle": "1. Piloto",
-                "serieDescription":"Rue tiene 17 años y vuelve de rehabilitación."
+                "serieDescription": "Rue tiene 17 años y vuelve de rehabilitación."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/ddLvNMyADwUpiNOS42XXxdl4b6f.jpg",
                 "serieTitle": "2. Fardando",
-                "serieDescription":"El primer día de instituto Rue tiene una amiga nueva."
+                "serieDescription": "El primer día de instituto Rue tiene una amiga nueva."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/sgs0AMFBHPenfwIsxqLSGqbnOhw.jpg",
                 "serieTitle": "3. Has mirado",
-                "serieDescription":"Jules comienza a enamorarse de un chico por Internet."
+                "serieDescription": "Jules comienza a enamorarse de un chico por Internet."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/ntavqh2ruslPIOVeRRFMvdi5WzM.jpg",
                 "serieTitle": "4. Bonnie y Clyde",
-                "serieDescription":"Maddy y Nate tienen que formar parte de una investigación policial."
+                "serieDescription": "Maddy y Nate tienen que formar parte de una investigación policial."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/3ff187LdnqgrrOQWlzGShPR5sLS.jpg",
                 "serieTitle": "5. Echar sal a tu paso",
-                "serieDescription":"El baile de invierno se celebra en East Highland."
+                "serieDescription": "El baile de invierno se celebra en East Highland."
             }
         ]
     },
@@ -291,9 +298,10 @@
         "year": "1999",
         "age": "+16",
         "duration": "1h 53m",
-        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/1Nyjb7aeRKynWgmOl8he5ZcvWLm.jpg",
+        "img": "https://image.tmdb.org/t/p/w500_and_h282_face/1Nyjb7aeRKynWgmOl8he5ZcvWLm.jpg",
         "imgPortada": "https://images.ctfassets.net/22n7d68fswlw/2VA162TvYIMAAgYG2YkW4S/3238031e6a033b3b9996bb6ebd628221/being-john-01.jpg",
-        "description": "Un titeretero que descubre un portal que conduce, literalmente, dentro de la cabeza de la estrella de cine John Malkovich"
+        "description": "Un titeretero que descubre un portal que conduce, literalmente, dentro de la cabeza de la estrella de cine John Malkovich",
+        "trailer": "https://www.youtube.com/watch?v=yfBU3t3JOBU&ab_channel=DaniPrync"
     },
     {
         "id": "9",
@@ -302,9 +310,10 @@
         "year": "2009",
         "age": "+16",
         "duration": "2h 33m",
-        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/bMJxwgLyD47CDQ6BFCT2AMMlID7.jpg",
+        "img": "https://image.tmdb.org/t/p/w500_and_h282_face/bMJxwgLyD47CDQ6BFCT2AMMlID7.jpg",
         "imgPortada": "https://i.insider.com/5d39fc7236e03c119246b5a3?width=1100&format=jpeg&auto=webp",
-        "description": "Es el primer año de la ocupación alemana de Francia. El oficial aliado, teniente Aldo Raine, ensambla un equipo de soldados judíos para cometer actos violentos en contra de los nazis."
+        "description": "Es el primer año de la ocupación alemana de Francia. El oficial aliado, teniente Aldo Raine, ensambla un equipo de soldados judíos para cometer actos violentos en contra de los nazis.",
+        "trailer": "https://www.youtube.com/watch?v=DVzJClU10dE&ab_channel=cjne7"
     },
     {
         "id": "10",
@@ -313,9 +322,10 @@
         "year": "2018",
         "age": "+16",
         "duration": "1h 25m",
-        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/aycVJuqlxHSNfxHfTftuklLpjUC.jpg",
+        "img": "https://image.tmdb.org/t/p/w500_and_h282_face/aycVJuqlxHSNfxHfTftuklLpjUC.jpg",
         "imgPortada": "https://data.nssmag.com/images/galleries/18024/mid-90s-cast-hd.jpg",
-        "description": "Stevie, un chico de 13 años que vive en el Los Ángeles de los años 90, pasa el verano lidiando con los problemas de su vida doméstica."
+        "description": "Stevie, un chico de 13 años que vive en el Los Ángeles de los años 90, pasa el verano lidiando con los problemas de su vida doméstica.",
+        "trailer": "https://www.youtube.com/watch?v=woNO750mhVU&ab_channel=TrailersInSpanish"
     },
     {
         "id": "11",
@@ -324,9 +334,10 @@
         "year": "2019",
         "age": "+16",
         "duration": "1h 50m",
-        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/tNE9HGcFOH8EpCmzO7XCYwqguI0.jpg",
+        "img": "https://image.tmdb.org/t/p/w500_and_h282_face/tNE9HGcFOH8EpCmzO7XCYwqguI0.jpg",
         "imgPortada": "https://cdn3.whatculture.com/images/2020/01/4a0924968155e52e-1200x675.jpg",
-        "description": "Una remota y misteriosa isla de Nueva Inglaterra. El veterano farero y su joven ayudante deberán convivir durante cuatro semanas."
+        "description": "Una remota y misteriosa isla de Nueva Inglaterra. El veterano farero y su joven ayudante deberán convivir durante cuatro semanas.",
+        "trailer": "https://www.youtube.com/watch?v=2LC2c--ZW0A&ab_channel=MigueFern%C3%A1ndez"
     },
     {
         "id": "12",
@@ -335,9 +346,10 @@
         "year": "2019",
         "age": "+16",
         "duration": "2h 18m",
-        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/zLNQcj4MhyQSfUSyxgJhmQLIfZ8.jpg",
+        "img": "https://image.tmdb.org/t/p/w500_and_h282_face/zLNQcj4MhyQSfUSyxgJhmQLIfZ8.jpg",
         "imgPortada": "https://s2.r29static.com/bin/entry/3b0/0,0,2000,1050/x,80/2213707/image.jpg",
-        "description": "Lo que comienza como unas vacaciones de ensueño en un lugar en el que el sol no se pone nunca, poco a poco se convierte en una oscura pesadilla."
+        "description": "Lo que comienza como unas vacaciones de ensueño en un lugar en el que el sol no se pone nunca, poco a poco se convierte en una oscura pesadilla.",
+        "trailer": "https://www.youtube.com/watch?v=fcylOJ0twFw&ab_channel=FandangoLatam"
     },
     {
         "id": "13",
@@ -346,9 +358,10 @@
         "year": "1997",
         "age": "+7",
         "duration": "2h 14m",
-        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/mpNd0rTVrp6vHJ9Je7wSa3zC8JS.jpg",
+        "img": "https://image.tmdb.org/t/p/w500_and_h282_face/mpNd0rTVrp6vHJ9Je7wSa3zC8JS.jpg",
         "imgPortada": "https://images-na.ssl-images-amazon.com/images/I/61jhwBxJF7L._AC_SL1039_.jpg",
-        "description": "Con el fin de curar la herida que le ha causado un jabalí enloquecido, el joven Ashitaka sale en busca del dios Ciervo, pues sólo él puede liberarlo del sortilegio."
+        "description": "Con el fin de curar la herida que le ha causado un jabalí enloquecido, el joven Ashitaka sale en busca del dios Ciervo, pues sólo él puede liberarlo del sortilegio.",
+        "trailer": "https://www.youtube.com/watch?v=NixsPRMfqV0&ab_channel=V%C3%A9rtigoFilms"
     },
     {
         "id": "14",
@@ -357,9 +370,10 @@
         "year": "2017",
         "age": "+16",
         "duration": "2h 12m",
-        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/yK20evDYkI4ET0EY2fIsKsNF6Ip.jpg",
+        "img": "https://image.tmdb.org/t/p/w500_and_h282_face/yK20evDYkI4ET0EY2fIsKsNF6Ip.jpg",
         "imgPortada": "https://media.vogue.co.uk/photos/5d544b16d9c06a0008db30e5/16:9/w_1920,c_limit/call_me_by_your_name_still_10_-_publicity_-_h_2017.jpg",
-        "description": "Una historia de amor de verano entre Elio Perlman, un joven adolescente de 17 años, y Oliver, un estudiante de 24 invitado en casa de sus padres a la casa familiar de la Riviera italiana."
+        "description": "Una historia de amor de verano entre Elio Perlman, un joven adolescente de 17 años, y Oliver, un estudiante de 24 invitado en casa de sus padres a la casa familiar de la Riviera italiana.",
+        "trailer": "https://www.youtube.com/watch?v=1oZnDp50X-A&ab_channel=SonyPicturesArgentina"
     },
     {
         "id": "15",
@@ -368,34 +382,35 @@
         "year": "2007",
         "age": "+16",
         "seasons": "7 temporadas",
-        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/ljOiRmGg96ltbNaCaxUkjdXyPjK.jpg",
+        "img": "https://image.tmdb.org/t/p/w500_and_h282_face/ljOiRmGg96ltbNaCaxUkjdXyPjK.jpg",
         "imgPortada": "https://lanetaneta.com/wp-content/uploads/2020/05/Elenco-de-Mad-Men-en-otros-programas-peliculas-en.jpg",
         "description": "Aclamada serie dramática que narra los comienzos de una de las más prestigiosas agencias de publicidad de los años sesenta.",
+        "trailer": "https://www.youtube.com/watch?v=J8rpf88KKJQ&ab_channel=Jes%C3%BAsS",
         "episodes": [
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/mBqSKwUdiVkpXr5XCGzLmfmorkt.jpg",
                 "serieTitle": "1. El humo ciega tus ojos",
-                "serieDescription":"Peggy entra a trabajar como asistente de Don Draper."
+                "serieDescription": "Peggy entra a trabajar como asistente de Don Draper."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/xvexoE0hPGaRy5yBzONhqcP0MoN.jpg",
                 "serieTitle": "2. El puente",
-                "serieDescription":"Don hace lo imposible por ocultar su complicada vida personal."
+                "serieDescription": "Don hace lo imposible por ocultar su complicada vida personal."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/mEWOMeaYVBfcq78XLTqzDLEO7Kt.jpg",
                 "serieTitle": "3. Las bodas de Fígaro",
-                "serieDescription":"El ambicioso Pete Campbell acaba de regresar feliz de su luna de miel."
+                "serieDescription": "El ambicioso Pete Campbell acaba de regresar feliz de su luna de miel."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/AaMX4X65Pa9TxK0MBqEstsjpvq7.jpg",
                 "serieTitle": "4. Nueva Amsterdam",
-                "serieDescription":"Pete Campbell ve cómo se tambalea su vida personal y profesional. "
+                "serieDescription": "Pete Campbell ve cómo se tambalea su vida personal y profesional. "
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/fz9ekSIdGReJmBP5vPILltwIMAS.jpg",
                 "serieTitle": "5. 5G",
-                "serieDescription":"Don Draper gana un importante premio publicitario."
+                "serieDescription": "Don Draper gana un importante premio publicitario."
             }
         ]
     },
@@ -406,34 +421,35 @@
         "year": "2014",
         "age": "+16",
         "seasons": "4 temporadas",
-        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/2FsYA44kJ2cLB698tBc7bfn3GnB.jpg",
+        "img": "https://image.tmdb.org/t/p/w500_and_h282_face/2FsYA44kJ2cLB698tBc7bfn3GnB.jpg",
         "imgPortada": "https://thevore.com/wp-content/uploads/fargo.jpg",
         "description": "En un pequeño pueblo de Minnesota, un inesperado giro de los acontecimientos perturba la vida de varias personas.",
+        "trailer": "https://www.youtube.com/watch?v=aFtPmxb01OA&ab_channel=SomosCritica",
         "episodes": [
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/tZSRZ377JiiZKaYKmH6XnUHdERC.jpg",
                 "serieTitle": "1. La paradoja del cocodrilo",
-                "serieDescription":"La vida de un vendedor de seguros cambia cuando conoce a un despiadado asesino."
+                "serieDescription": "La vida de un vendedor de seguros cambia cuando conoce a un despiadado asesino."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/heCd4SuRAQtzt7FbwMNdmiFtFvG.jpg",
                 "serieTitle": "2. El príncipe gallo",
-                "serieDescription":"Mr. Numbers y Mr. Wrench llegan a Bemidji en busca del asesino de Hess."
+                "serieDescription": "Mr. Numbers y Mr. Wrench llegan a Bemidji en busca del asesino de Hess."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/269IUdtuzqCfRWOHxgkPX24Oj6h.jpg",
                 "serieTitle": "3. Un camino embarrado",
-                "serieDescription":"Se le informa a la oficial que el hombre encontrado en el bosque había sido secuestrado."
+                "serieDescription": "Se le informa a la oficial que el hombre encontrado en el bosque había sido secuestrado."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/psDcdcOC1f8JOrJfdd1RvrByzmk.jpg",
                 "serieTitle": "4. Comerse la culpa",
-                "serieDescription":"El automóvil de la familia Milos se queda sin combustible en medio de una carretera."
+                "serieDescription": "El automóvil de la familia Milos se queda sin combustible en medio de una carretera."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/thwaGJ8kAkEWa5lrvmHPnQKMpwQ.jpg",
                 "serieTitle": "5. Los seis inalcanzables",
-                "serieDescription":"En la comisaría Mr. Numbers y Mr. Wrench obligan a Nygaard a que les de el nombre de Malvo."
+                "serieDescription": "En la comisaría Mr. Numbers y Mr. Wrench obligan a Nygaard a que les de el nombre de Malvo."
             }
         ]
     },
@@ -444,34 +460,35 @@
         "year": "2011",
         "age": "+16",
         "seasons": "3 temporadas",
-        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/d1y1Bp0wWgA2LmPX5jVNz9Sx0Uf.jpg",
+        "img": "https://image.tmdb.org/t/p/w500_and_h282_face/d1y1Bp0wWgA2LmPX5jVNz9Sx0Uf.jpg",
         "imgPortada": "https://files.hant.se/uploads/2015/09/BronS1-sofia-helin-kim-bodnia2.jpg",
         "description": "Saga y Martin son dos policías de Suecia y Dinamarca. Cruzarán sus caminos por un crimen cometido en el puente que une ambos países, justo en la frontera.",
+        "trailer": "https://www.youtube.com/watch?v=83FcxzlXbKs&ab_channel=NordicNoir%26Beyond",
         "episodes": [
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/xMKVZslG6VpB1cPIoBrnz3bqccu.jpg",
                 "serieTitle": "Episodio 1",
-                "serieDescription":"Una mujer es encontrada asesinada en la frontera entre Suecia y Dinamarca."
+                "serieDescription": "Una mujer es encontrada asesinada en la frontera entre Suecia y Dinamarca."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/ceXf4stp93OCY4iHhs4RPCSg08t.jpg",
                 "serieTitle": "Episodio 2",
-                "serieDescription":"El asesino revela que el asesinato en el puente era sólo el principio"
+                "serieDescription": "El asesino revela que el asesinato en el puente era sólo el principio"
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/eAPr6FnSS3ECdqoF8jYgnywcVu.jpg",
                 "serieTitle": "Episodio 3",
-                "serieDescription":"El asesino secuestra a un hombre sin hogar y exige un gran rescate."
+                "serieDescription": "El asesino secuestra a un hombre sin hogar y exige un gran rescate."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/ozpOixw3kOWZcJgsfOFXbGyhpQO.jpg",
                 "serieTitle": "Episodio 4",
-                "serieDescription":"La supervivencia del hombre sin hogar depende de la voluntad de los empresarios a pagar el rescate."
+                "serieDescription": "La supervivencia del hombre sin hogar depende de la voluntad de los empresarios a pagar el rescate."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/8GmUljnlXh5xz9LLAyy6ycluiZT.jpg",
                 "serieTitle": "Episodio 5",
-                "serieDescription":"El asesino ha preparado esquizofrénicos a cometer crímenes violentos sincronizados."
+                "serieDescription": "El asesino ha preparado esquizofrénicos a cometer crímenes violentos sincronizados."
             }
         ]
     },
@@ -482,9 +499,10 @@
         "year": "2005",
         "age": "+16",
         "seasons": "5 temporadas",
-        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/gxW8jcVf0nN5BBjiIRqJssh7m0p.jpg",
+        "img": "https://image.tmdb.org/t/p/w500_and_h282_face/gxW8jcVf0nN5BBjiIRqJssh7m0p.jpg",
         "imgPortada": "https://hipertextual.com/files/2020/04/hipertextual-2020315971.jpg",
         "description": "Una serie nominada al Emmy que deriva de Breaking Bad y sigue la metamorfosis del abogado Jimmy McGill en Saul Goodman, el asesor inescrupuloso de Walter White.",
+        "trailer": "https://www.youtube.com/watch?v=jJ1SKlVzhss&ab_channel=NetflixLatinoam%C3%A9rica",
         "episodes": [
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/kXPlwZm3RefxpSU5E3Mu4Yyvn40.jpg",
@@ -494,22 +512,22 @@
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/8XFhyx4xFCY2nZPThgOUF42G4fI.jpg",
                 "serieTitle": "2. Mijo",
-                "serieDescription":"Los problemas de Jimmy se intensifican"
+                "serieDescription": "Los problemas de Jimmy se intensifican"
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/xF1LKhLd0xAcddb9HrgAJ2W6gav.jpg",
                 "serieTitle": "3. Nacho",
-                "serieDescription":"Jimmy se esfuerza por demostrar que su peligroso cliente es inocente."
+                "serieDescription": "Jimmy se esfuerza por demostrar que su peligroso cliente es inocente."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/cT2X6LakJkgbVARXruyughlZ7w9.jpg",
                 "serieTitle": "4. Héroe",
-                "serieDescription":"Jimmy lleva a cabo un plan tenaz para conseguir nuevos clientes."
+                "serieDescription": "Jimmy lleva a cabo un plan tenaz para conseguir nuevos clientes."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/iDW7BZtI7M1xIzL4vGG637EzbPT.jpg",
                 "serieTitle": "5. Pastorcillo alpino",
-                "serieDescription":"Jimmy se ve presionado para tomar una decisión difícil."
+                "serieDescription": "Jimmy se ve presionado para tomar una decisión difícil."
             }
         ]
     },
@@ -520,34 +538,35 @@
         "year": "2002",
         "age": "+13",
         "seasons": "2 temporadas",
-        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/CVldI1pzrg0TNQgXFOc9PMo9nB.jpg",
+        "img": "https://image.tmdb.org/t/p/w500_and_h282_face/CVldI1pzrg0TNQgXFOc9PMo9nB.jpg",
         "imgPortada": "https://beta.losandes.com.ar/resizer/joXo3xK7-zY0hJ_NByggLHbu7bc=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/GRRWKMTEGA4TCMBYMZSDOMJQHA.jpg",
         "description": "Cuatro socios que, mediante operativos de simulacro sofisticados, «resuelven los problemas de gente común.",
+        "trailer": "https://www.youtube.com/watch?v=h7Hp-ih5bkM&frags=wn&ab_channel=Mat%C3%ADasBerra",
         "episodes": [
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/tS8hIg4BuCqRNyvn9cn6yO2U4EM.jpg",
                 "serieTitle": "1. Tarjeta de navidad",
-                "serieDescription":"Especializados en la realización de operativos de simulación para solucionar los problemas."
+                "serieDescription": "Especializados en la realización de operativos de simulación para solucionar los problemas."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/e0SXQBmx0EFhPpz27NRYXXxckpG.jpg",
                 "serieTitle": "2. Diagnóstico rectoscópico",
-                "serieDescription":"Laguzzi, un usurero despiadado, amenaza de muerte a los hijos de Vanegas."
+                "serieDescription": "Laguzzi, un usurero despiadado, amenaza de muerte a los hijos de Vanegas."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/gb8pM8HcKEOZ0LTos1TqPDZ7eE8.jpg",
                 "serieTitle": "3. Seguro de desempleo",
-                "serieDescription":"Despiden a Feler tras cuarenta años de trabajo en una fábrica láctea."
+                "serieDescription": "Despiden a Feler tras cuarenta años de trabajo en una fábrica láctea."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/k4UBPMY0zIGOa0AOKdRHo1qXUjK.jpg",
                 "serieTitle": "4. El testigo español",
-                "serieDescription":"un egocéntrico colega español que quiere chantajear a Alicia."
+                "serieDescription": "un egocéntrico colega español que quiere chantajear a Alicia."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/l2Uoqd4pAxicHaMtxya0sQgf0iv.jpg",
                 "serieTitle": "5. El joven simulador",
-                "serieDescription":"El médico recomienda que no le den malas noticias. Pero su hijo está a punto de repetir el año."
+                "serieDescription": "El médico recomienda que no le den malas noticias. Pero su hijo está a punto de repetir el año."
             }
         ]
     },
@@ -558,34 +577,35 @@
         "year": "1989",
         "age": "+13",
         "seasons": "9 temporadas",
-        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/xxyZPKsc5h6PH5XMdbmuMjt4APf.jpg",
+        "img": "https://image.tmdb.org/t/p/w500_and_h282_face/xxyZPKsc5h6PH5XMdbmuMjt4APf.jpg",
         "imgPortada": "https://nypost.com/wp-content/uploads/sites/2/2019/06/seinfeld-cast.jpg?quality=80&strip=all",
         "description": "La popular comedia de los 90 creada por Larry David y el protagonista de la misma Jerry Seinfeld que le da título, trata las experiencias de cuatro amigos en la ciudad de Manhattan",
+        "trailer": "https://www.youtube.com/watch?v=2V5t3a6s6dA&ab_channel=NelsonGali%C3%B1anes",
         "episodes": [
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/smLOzAx9K1QHhchOArMOMxMTAvZ.jpg",
                 "serieTitle": "1. Crónicas de Seinfeld",
-                "serieDescription":"Jerry le cuenta a George acerca de una mujer que conoció en Míchigan."
+                "serieDescription": "Jerry le cuenta a George acerca de una mujer que conoció en Míchigan."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/503baHt3r4EwlkwF2G8x6wNLUif.jpg",
                 "serieTitle": "2. De vigilancia",
-                "serieDescription":"Jerry y George vigilan en el vestíbulo de un edificio para encontrar a una mujer que Jerry conoció en una fiesta."
+                "serieDescription": "Jerry y George vigilan en el vestíbulo de un edificio para encontrar a una mujer que Jerry conoció en una fiesta."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/wxUwtErqLplnRElWNLrd7EuUFvo.jpg",
                 "serieTitle": "3. El robo",
-                "serieDescription":"Jerry y George quieren el mismo apartamento, y Elaine quiere el apartamento de quien sale perdiendo."
+                "serieDescription": "Jerry y George quieren el mismo apartamento, y Elaine quiere el apartamento de quien sale perdiendo."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/yIVbxxBvajM4VztPvDw2GzYEIuC.jpg",
                 "serieTitle": "4. Desenlace Masculino",
-                "serieDescription":"Jerry inventa varias excusas para evitar encontrarse con un viejo amigo."
+                "serieDescription": "Jerry inventa varias excusas para evitar encontrarse con un viejo amigo."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/qSoHO0kk0svWsLx0hyK1xDEu4ly.jpg",
                 "serieTitle": "5. El Consejo sobre la Bolsa",
-                "serieDescription":"Jerry se vuelve desconfiado cuando él y George compran acciones y el precio baja."
+                "serieDescription": "Jerry se vuelve desconfiado cuando él y George compran acciones y el precio baja."
             }
         ]
     },
@@ -596,36 +616,36 @@
         "year": "2005",
         "age": "+13",
         "seasons": "9 temporadas",
-        "img":"https://image.tmdb.org/t/p/w500_and_h282_face/klDoi212oi2ewNSvbzPOvOP0KCl.jpg",
+        "img": "https://image.tmdb.org/t/p/w500_and_h282_face/klDoi212oi2ewNSvbzPOvOP0KCl.jpg",
         "imgPortada": "https://i.insider.com/5a393da9fcdf1e1d008b45c7?width=1100&format=jpeg&auto=webp",
         "description": "El día a día en la vida de unos excéntricos trabajadores de la empresa Dunder Mifflin, de forma fresca y divertida, y con apariencia de pseudo-documental.",
+        "trailer": "https://www.youtube.com/watch?v=uEQ4KKjGbDk&ab_channel=XREYX",
         "episodes": [
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/pxGFDYfxx1yJbGkze9DIcsgt6ie.jpg",
                 "serieTitle": "1. Piloto",
-                "serieDescription":"Un equipo documental llega a la oficina de Dunder Mifflin para aprender de su moderna dirección."
+                "serieDescription": "Un equipo documental llega a la oficina de Dunder Mifflin para aprender de su moderna dirección."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/Prbp2DXo6GUtLDx32LhCj89MHL.jpg",
                 "serieTitle": "2. Día de la Diversidad",
-                "serieDescription":"Un consultor llega a la oficina para impartir un seminario sobre tolerancia y diversidad."
+                "serieDescription": "Un consultor llega a la oficina para impartir un seminario sobre tolerancia y diversidad."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/8h2wJFuICSJf4M7SZSB3cL7LAZq.jpg",
                 "serieTitle": "3. El seguro médico",
-                "serieDescription":"Michael decide encargar a Dwight el nuevo seguro de salud que contratará la empresa."
+                "serieDescription": "Michael decide encargar a Dwight el nuevo seguro de salud que contratará la empresa."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/kJTE2OhhxVc8K4Q3BNskJEyz6uN.jpg",
                 "serieTitle": "4. El pacto",
-                "serieDescription":"Michael prepara una fiesta de cumpleaños para Meredith."
+                "serieDescription": "Michael prepara una fiesta de cumpleaños para Meredith."
             },
             {
                 "serieImg": "https://image.tmdb.org/t/p/w227_and_h127_bestv2/vxQ0bVkuShfjzc5mvxUzeR6ZsHx.jpg",
                 "serieTitle": "5. Baloncesto",
-                "serieDescription":"Michael, desafía a los trabajadores del almacén con un partido de baloncesto."
+                "serieDescription": "Michael, desafía a los trabajadores del almacén con un partido de baloncesto."
             }
         ]
     }
-
 ]

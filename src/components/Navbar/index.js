@@ -13,7 +13,7 @@ class Navbar extends React.Component {
           <a href="#series" className="link">Series</a>
           <a href="#peliculas" className="link">Películas</a>
           <a href="#recientementeAgregado" className="link">Agregados recientemente</a>
-          <a href="#" className="link">Mi lista</a>
+          <a href="#miLista" className="link">Mi lista</a>
         </div>
       </div>
     );
