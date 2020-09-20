@@ -58,10 +58,13 @@ class Hero extends React.Component {
     const stringfiedList = localStorage.getItem('list')
     if (stringfiedList) {
       const parsedList = JSON.parse(stringfiedList)
+      //agrego un if para que no pushee si el contenido ya está en "mi lista".
+      if (!parsedList.some((element) => element.id == data.id)) {
+        parsedList.push(data)
+        const newList = JSON.stringify(parsedList)
+        localStorage.setItem('list', newList)
+      }
 
-      parsedList.push(data)
-      const newList = JSON.stringify(parsedList)
-      localStorage.setItem('list', newList)
     } else {
       const parsedList = [data]
       const newList = JSON.stringify(parsedList)
